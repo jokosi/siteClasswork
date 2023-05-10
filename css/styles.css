@@ -1,0 +1,19 @@
+h2,h3,p{
+    color:red;
+    font-size: smaller;
+    stroke: black;
+    font-style: italic;
+}
+strong{
+    color: green;
+    font-size: larger;
+}
+
+ul{
+    color: blueviolet;
+}
+ 
+li>a{
+    color: green;
+} 
+

@@ -1,0 +1,60 @@
+h1{
+    color: orangered;
+    font-size: 50px;
+    font-style: unset;
+    margin-bottom: 0.5rem;
+}
+
+h2{
+    color: rgba(3, 120, 167, 0.856);
+    font-size: 30px;
+}
+
+h3{
+   color: rgba(3, 120, 167, 0.856);
+   font-size: xx-large;
+   font-style: inherit;
+}
+
+p{
+    font-size: 30px;
+    font-style: inherit;
+}
+
+.six{
+    display: flex;
+}
+
+ol{
+    list-style-type: none;
+    color: red;
+    font-size: x-large;
+}
+
+#first-image{
+    height: 15rem;
+    width: 100%;
+}
+
+#second-image{
+    width: 30rem;
+}
+
+.seven {
+    display: flex;
+    width: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-right: 500px;
+    padding-left: 50px;
+}
+#loc {
+  text-size-adjust: 1000rem; 
+}
